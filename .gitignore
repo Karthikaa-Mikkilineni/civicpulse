@@ -1,0 +1,22 @@
+
+# Local configuration, generated state, and build artifacts
+.env
+.env.*
+!.env.example
+.venv/
+node_modules/
+.angular/
+dist/
+bin/
+obj/
+__pycache__/
+.pytest_cache/
+.qa/
+*.sqlite*
+*.db
+*.pyc
+*.log
+*.tsbuildinfo
+.local-models/
+workspace/
+data/
